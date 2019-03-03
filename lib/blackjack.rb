@@ -64,4 +64,8 @@ def runner
   end_game(card_total)
 
 end
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 28ba7f660dc3e5bab71b9f4bb0c06142fb9a20cb
